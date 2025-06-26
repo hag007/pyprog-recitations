@@ -1,0 +1,18 @@
+    .bd-container__inner {
+    min-width: 100vw;
+    }
+
+    .bd-sidebar-secondary {
+    min-width: 17vw;
+    }
+
+    .section-nav {
+    padding-right: 0;
+    }
+
+
+    /* Optionally widen code/output blocks */
+    div.output_area pre {
+        white-space: pre-wrap; /* Prevent horizontal scrolling */
+        word-wrap: break-word;
+    }

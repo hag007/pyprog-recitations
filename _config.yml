@@ -30,7 +30,7 @@ html:
   use_issues_button: true
   use_repository_button: true
   extra_css:
-    - rtl.css
+    - custom.css
 launch_buttons:
   notebook_interface: "jupyterlab"  # or "classic"
   binderhub_url: "https://mybinder.org"

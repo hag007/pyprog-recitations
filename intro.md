@@ -1,4 +1,4 @@
-# Welcome to the recitations of virtual-pyprog course
+# Welcome to the recitations of the Computer Science and Programming course
 
 
 ```{tableofcontents}
